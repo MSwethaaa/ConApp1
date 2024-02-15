@@ -1,0 +1,14 @@
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\bin\Debug\net6.0\ConsApp1.exe
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\bin\Debug\net6.0\ConsApp1.deps.json
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\bin\Debug\net6.0\ConsApp1.runtimeconfig.json
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\bin\Debug\net6.0\ConsApp1.dll
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\bin\Debug\net6.0\ConsApp1.pdb
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ConsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ConsApp1.AssemblyInfoInputs.cache
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ConsApp1.AssemblyInfo.cs
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ConsApp1.csproj.CoreCompileInputs.cache
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ConsApp1.dll
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\refint\ConsApp1.dll
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ConsApp1.pdb
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ConsApp1.genruntimeconfig.cache
+E:\Mphasis\Feb15\ConsApp1\ConsApp1\obj\Debug\net6.0\ref\ConsApp1.dll
